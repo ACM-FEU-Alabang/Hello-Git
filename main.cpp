@@ -5,7 +5,8 @@ using namespace std;
 
 void caesar_key(string letters, int number);
 void caesar_sub(string letters, string key);
-void credit(int card_number);
+void credit(long card_number);
+
 int main()
 {
   int ch;
@@ -25,7 +26,7 @@ int main()
       change(float change_owed);
       break;
     case 4: //checksum
-      credit(int card_number);
+      credit(long card_number);
       break;
     default:
       cout << "wrong choice."
@@ -50,7 +51,7 @@ void change(float change_owed)
  //start code here 
 }
 
-void credit(int card_number)
+void credit(long card_number)
 {
  //start code here 
 }
