@@ -28,6 +28,7 @@ int main()
       credit(int card_number);
       break;
     default:
+      cout << "wrong choice."
       break;
   }
   
@@ -49,7 +50,7 @@ void change(float change_owed)
  //start code here 
 }
 
-credit(int card_number)
+void credit(int card_number)
 {
  //start code here 
 }
