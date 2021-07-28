@@ -11,9 +11,15 @@ In this requirement, you are expected to learn and understand the following:
 * Download and install [Git](https://git-scm.com/)
 * Download and install the C/C++ compiler for Windows [MinGW](http://mingw-w64.org/doku.php)
 * Download and install the `gpp-compiler` from the [atom package store](https://atom.io/packages/gpp-compiler)
-* Use C or C++ for these tasks.
 
 *Add MinGW to your environments variable. If you are unsure of what to do, follow this full guide on installing Atom and MinGW [here.](https://www.youtube.com/watch?v=zaokK25DITo)*
+
+## Constraints:
+* Use only C or C++ for these tasks.
+* You are only allowed to edit on main.cpp. 
+* You are not allowed to create your own header files nor are you allowed to code in a separate file other than main.cpp.
+
+
 
 ## Your Task:
 There are **four** tasks for your group to complete. They are as follows:
